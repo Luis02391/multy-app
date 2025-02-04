@@ -42,9 +42,3 @@ Codigo qr para descarga de la app
 - **TypeScript**
 - **JavaScript**
 - **CSS (para estilos en React Native)**
-
----
-
-## 📧 Contacto
-- **Desarrollador:** Ivo Luis Rodríguez López
-- **Correo Electrónico:** [TuCorreo@ejemplo.com](mailto:TuCorreo@ejemplo.com)
