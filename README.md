@@ -29,13 +29,14 @@ Esta aplicación fue desarrollada en **React Native** e incluye un menú con var
 ## 📥 Descarga de la Aplicación
 Puedes descargar la APK desde el siguiente enlace:
 
-link aqui ivo
+https://1drv.ms/u/c/659221d7181e0cbe/ERB9GDHuFG9PoT_RnJN4gj8BUUPbTctDusmOKRldTsDKjQ
 
 ### 📌 Código QR para Descarga APK
 
 Codigo qr para descarga de la app
 
----
+![image](https://github.com/user-attachments/assets/8a62c123-3990-438d-862e-a8674d4bda7d)
+
 
 ## 🚀 Tecnologías Utilizadas
 - **React Native con Expo**
